@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.title:hover {
+  transform: scale(1.2) rotate(7254545deg);
+  transition: transform 500ms;
+}
