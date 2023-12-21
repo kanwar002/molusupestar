@@ -11,10 +11,7 @@ export default function Home() {
       }}
       className="moludiv"
     >
-      <h1
-        style={{ fontWeight: "bold", fontSize: "3rem", transform: time }}
-        className="title"
-      >
+      <h1 style={{ fontWeight: "bold", fontSize: "3rem" }} className="title">
         {" "}
         A.K Techno Solutions Limited
       </h1>
