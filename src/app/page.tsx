@@ -12,7 +12,7 @@ export default function Home() {
       className="moludiv"
     >
       <h1 style={{ fontWeight: "bold", fontSize: "3rem" }} className="title">
-        You're Gay
+        You are Gay
       </h1>
     </div>
   );
